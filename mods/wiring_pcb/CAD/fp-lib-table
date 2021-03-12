@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name VoronV0WiringHelper)(type KiCad)(uri ${KIPRJMOD}/footprints)(options "")(descr ""))
+)

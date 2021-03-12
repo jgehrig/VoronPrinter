@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Power_CUI)(type Legacy)(uri ${KIPRJMOD}/symbols/Power_CUI.lib)(options "")(descr ""))
+  (lib (name Relay_SSR)(type Legacy)(uri ${KIPRJMOD}/symbols/Relay_SSR.lib)(options "")(descr ""))
+)

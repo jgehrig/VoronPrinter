@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AQG22224
+D Zero Cross Opto-Triac, Vdrm 400V, Ift 8mA, IT 8A
+K Opto-Triac Opto Triac Zero Cross Solid State Relays
+F http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/s102s02_e.pdf
+$ENDCMP
+#
+#End Doc Library
